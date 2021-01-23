@@ -16,3 +16,4 @@ Links to each team member's bio page. Add a link for each team member.
 
 [Emmanuel](/emmanuel.md)
 [Toni](/toni.md)
+[Priyanka](/priyanka.md)
